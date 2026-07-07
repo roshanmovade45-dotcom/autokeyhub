@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AutoKey Hub</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+<h1>AutoKey Hub</h1>
+<p>Premium Key Service</p>
+</header>
+
+<section>
+<h2>Welcome</h2>
+<p>Welcome to AutoKey Hub.</p>
+
+<h3>Contact</h3>
+<p>📞 9021698049</p>
+
+<h3>Telegram</h3>
+<p><a href="https://t.me/th3_blu3chip">@th3_blu3chip</a></p>
+
+<h3>Payment</h3>
+<p>Scan QR Code to Pay</p>
+<img src="qr.jpg" width="220" alt="QR Code">
+
+</section>
+
+<footer>
+<p>© 2026 AutoKey Hub</p>
+</footer>
+
+</body>
+</html>
